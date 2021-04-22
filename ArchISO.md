@@ -8,8 +8,6 @@
 
 # Arch Linux Installation
 
-Based on the link: [Installation de base (French)](https://wiki.archlinux.fr/installation#Pr.C3.A9paration_avant_l.27installation)
-
 As written,
     
     It is strongly discouraged to use tutorials when installing Arch Linux. 
