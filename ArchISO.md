@@ -12,7 +12,7 @@ Based on the link: [Installation de base (French)](https://wiki.archlinux.fr/ins
 
 As written,
     
-    It is strongly discouraged to use tutorials when installing Arch Linux. Tutorials are rarely updated, which conflicts with the constant evolution of any rolling release.
+    It is strongly discouraged to use tutorials when installing Arch Linux. 
     The use of an outdated or incorrect tutorial can lead to serious malfunctions.
 
 These notes are mine and worked in 2021 using the ISO.
