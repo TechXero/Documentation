@@ -1,4 +1,5 @@
 Moving Data Dir 
+
 `https://www.youtube.com/watch?v=VHF89bZR0bg`
 
 Add the following in config.php to add trusted domain
