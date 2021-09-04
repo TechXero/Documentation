@@ -1,6 +1,18 @@
+Packages to install
+
+`sudo apt install imagemagick imagemagick-common imagemagick-6-common ffmpeg`
+
 Moving Data Dir 
 
 `https://www.youtube.com/watch?v=VHF89bZR0bg`
+
+Enable HTTPS
+
+`sudo nextcloud.enable-https self-signed`
+
+Allow ports through firewall
+
+`sudo ufw allow 80,443/tcp`
 
 Add the following in config.php to add trusted domain
 
