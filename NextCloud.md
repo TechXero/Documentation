@@ -1,15 +1,13 @@
+Moving Data Dir 
+`https://www.youtube.com/watch?v=VHF89bZR0bg`
+
 Add the following in config.php to add trusted domain
 
 `1 => 'domain.com',`
 
 Install dnsmaq and edit config @ /etc/dnsmasq.conf
 
-```
-afdasdasd
-asdasdasd
-asdasdasd
-asdasdasd
-```
+`Use the one on this repo`
 
 Add selected domain to hosts file on every PC
 
