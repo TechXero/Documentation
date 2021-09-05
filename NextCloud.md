@@ -1,5 +1,7 @@
 Packages to install
 
+`sudo snap install nextcloud --edge && sudo snap start nextcloud`
+
 `sudo apt install imagemagick imagemagick-common imagemagick-6-common ffmpeg`
 
 Moving Data Dir 
