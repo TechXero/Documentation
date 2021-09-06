@@ -4,6 +4,10 @@ Packages to install
 
 Moving Data Dir 
 
+`sudo mv /var/snap/nextcloud/common/nextcloud/data/ /mnt/Data/`
+
+`sudo nano /var/snap/nextcloud/28354/nextcloud/config/config.php`
+
 `https://www.youtube.com/watch?v=VHF89bZR0bg`
 
 Enable HTTPS
