@@ -10,8 +10,6 @@ Moving Data Dir
 
 `https://www.youtube.com/watch?v=VHF89bZR0bg`
 
-Github Token
-`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`
 
 Enable HTTPS
 
