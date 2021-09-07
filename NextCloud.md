@@ -2,9 +2,13 @@ Packages to install
 
 `sudo snap install nextcloud --edge && sudo snap start nextcloud`
 
+Maintenance mode
+
+`sudo nextcloud.occ maintenance:mode --on`
+
 Moving Data Dir 
 
-`sudo mv /var/snap/nextcloud/common/nextcloud/data/ /mnt/Data/`
+`sudo mv /NextCloud/data/ /run/media/techxero/NextCloud/`
 
 `sudo nano /var/snap/nextcloud/28354/nextcloud/config/config.php`
 
