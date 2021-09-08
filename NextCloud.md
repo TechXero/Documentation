@@ -48,7 +48,6 @@ Generate Preview to all
 Have the following in config.php
 
 ```
-'preview_libreoffice_path' => '/usr/bin/libreoffice',
 'enable_previews' => true,
 'enabledPreviewProviders' =>
  array (
