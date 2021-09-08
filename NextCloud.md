@@ -14,6 +14,12 @@ Moving Data Dir
 
 `https://www.youtube.com/watch?v=VHF89bZR0bg`
 
+Enable/Disbale Encryption
+
+```
+sudo nextcloud.occ maintenance:mode --on/off
+sudo nextcloud.occ encryption:disable/enable
+```
 
 Enable HTTPS
 
